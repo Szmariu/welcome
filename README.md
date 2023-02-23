@@ -10,7 +10,7 @@ Published in the Journal of Telecommunications and Information Technology (JTIT)
 ## Top 5 projects
 [are-pokemon-born-equal](https://rpubs.com/Szmariu/pokemon)
 *(R, MDS, PCA, Clustering)*     
-Are Pokemon born equal? Multidimensional scaling, Principal Component Analisys and Clustering using PAM and KMeans.
+Are Pokemon born equal? Multidimensional scaling, Principal Component Analysis and Clustering using PAM and KMeans.
 
 [scaling-octo-disco](https://github.com/Szmariu/scaling-octo-disco/blob/master/code.ipynb)
 *(Python, Pandas, Machine Learning, Classification)*   
@@ -18,7 +18,7 @@ Predicting type of match based on match stats. Machine Learning on a large (4 00
 
 [Board Game Extravaganza](https://rpubs.com/Szmariu/board-game-extravaganza)
 *(R, Tidyverse, Exploratory Data Analysis)*   
-What does it take to be in the 1% of Board Game Geek ranking? The answer may surpise you... Exploratory data analysis on 17k games and 13M reviews.
+What does it take to be in the 1% of Board Game Geek ranking? The answer may surprise you... Exploratory data analysis on 17k games and 13M reviews.
 
 [In Defense of Manhattan Distance - On the Performance Impact of Distance Metrics in Clustering Analysis](https://rpubs.com/Szmariu/distance-metrics-performance)
 *(R, Clustering)*   
@@ -39,7 +39,7 @@ Predicting win rate using 2 million matches in League of Legends
 Market Basket Analysis on data from a small bakery. Highly skewed data.
 
 [psychic-computing-machine](https://github.com/Szmariu/psychic-computing-machine/blob/master/TextMining.ipynb)   
-Analizyng Shut Up and Sit Down podcast transcripts and compring them to BGG
+Analyzing Shut Up and Sit Down podcast transcripts and comparing them to BGG
 
 [price-this-option](https://github.com/Szmariu/price-this-option)  
 R package using C++ to value the geometric Asian long strangle option strategy.
@@ -60,7 +60,7 @@ Recreating confidence intervals for Machine Learning algorithms
 Webscrapping BoardGameGeek - top 10 000 boardgames. Done on BeautifulSoup and Selenium.
 
 [miniature-carnival](https://github.com/Szmariu/miniature-carnival)   
-Forecasting PM2.5 levels. Extracting trends form a highly sesonal dataset.
+Forecasting PM2.5 levels. Extracting trends form a highly seasonal dataset.
 
 [Webscraping Tool: Base R & Dplyr Approach](https://rpubs.com/Szmariu/webscraping)  
 Webscrapping the polish movie database Filmweb. 
