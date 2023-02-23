@@ -1,5 +1,5 @@
-# Welcome
-Links to all projects that I authored or co-authored, presented in one place.   
+# Introduction
+My name is Michał Szałański, and I am a data scientist with expertise in Python, R, and machine learning. I am passionate about solving complex problems and finding insights from data. Below you can find links to my projects and published articles.  
    
 Common themes: Python, R, pandas, scikit-learn, machine learning, clustering, supervised and unsupervised learning.
 
